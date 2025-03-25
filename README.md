@@ -20,4 +20,4 @@ https://github.com/user-attachments/assets/73e12104-91e8-4940-a8b0-820c8dd6190d
 
 ## Results
 
-- **Accuracy**: The trained model achieves an accuracy of approximately 86.5% on the test set.
+- **Accuracy**: The trained model ( model.h5 ) achieves an accuracy of approximately 86.5% on the test set.
